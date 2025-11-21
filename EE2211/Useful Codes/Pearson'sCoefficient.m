@@ -1,4 +1,5 @@
-%Pearson's Coefficient (r) Computation 
+% Pearson's Coefficient (r) Computation with Econometrics Package 
+% The package costs USD6 and I am not willing to pay when it can be done in this manner
 
 %change data accordingly
 training = [
